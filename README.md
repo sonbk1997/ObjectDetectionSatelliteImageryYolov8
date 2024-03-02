@@ -1,0 +1,2 @@
+# ObjectDetectionSatelliteImageryYolov8
+ObjectDetectionSatelliteImageryYolov8
